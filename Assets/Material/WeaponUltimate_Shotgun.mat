@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WeaponUltimate_Shotgun
+  m_Shader: {fileID: 4800000, guid: 99ad3de5ed8d3cb47a2eeb0541f0773d, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      Cubemap_7533E2EB:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      Texture2D_683E1ECD:
+        m_Texture: {fileID: 2800000, guid: c87b402f35f9f3748ae22b168f6b3a1d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      Texture2D_ECAB87BD:
+        m_Texture: {fileID: 2800000, guid: 07fe5ece7e3b86f408f95ff1b015e6a2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _SampleReflectedCubemap_dfb9dd6c93bd71819ab2675d6996f696_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: 111934c8b3340f24f99b63e39ede629e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      Vector1_E1660264: 1
+      _BumpScale: 1
+      _ConditionValue: 0
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _Dissolve: 1
+      _DstBlend: 0
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _HitValue: 0
+      _Metallic: 0
+      _Mode: 0
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _QueueControl: 0
+      _QueueOffset: 0
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _UVSec: 0
+      _ZWrite: 1
+      __dirty: 0
+    m_Colors:
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _ConditionColor: {r: 1, g: 0, b: 0.09661579, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _SkinColorA: {r: 0.24586153, g: 0.6177973, b: 0.8018868, a: 1}
+      _SkinColorB: {r: 0.007843138, g: 0.7803922, b: 0.58431375, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0
